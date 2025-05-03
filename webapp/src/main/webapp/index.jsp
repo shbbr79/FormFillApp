@@ -8,6 +8,10 @@
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
+    
+    <label for="name"><b>Father Name</b></label>
+    <input type="text" placeholder="Enter Father Name" name="email" id="email" required>
+    <br>
 
     <label for="adhar"><b>Adhar Name</b></label>
     <input type="text" placeholder="Enter Adhar" name="adhar" id="adhar" required>
