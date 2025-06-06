@@ -13,7 +13,7 @@
     <input type="text" placeholder="Enter Father Name" name="email" id="email" required>
     <br>
 
-    <label for="adhar"><b>Adhar Name</b></label>
+    <label for="adhar"><b>Mother Name</b></label>
     <input type="text" placeholder="Enter Adhar" name="adhar" id="adhar" required>
     <br>
 
